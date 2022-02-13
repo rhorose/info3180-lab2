@@ -1,3 +1,41 @@
 body {
     padding-top: 5rem;
 }
+
+#profile{
+    background: #559958;
+    padding-top: 26px;
+    padding-bottom: 1px;
+    text-align: center;
+    color:white
+
+}
+
+img{
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+}
+
+#second{
+    border: 1px solid rgb(201, 197, 197);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+#about{
+    text-align: center;
+    color:rgb(128, 127, 127);
+}
+
+#insights{
+    display:flex;
+    justify-content: center;
+}
+
+#stats{
+    color:rgb(128, 127, 127);
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
